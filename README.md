@@ -7,5 +7,5 @@ Driver for LCD using I2C.
 - HD44780
 
 # Software Config
-I2C address: 0x27
-Clock Source: 16MHz full swing crystal oscillator
+- **I2C address**: 0x27
+- **Clock Source**: 16MHz full swing crystal oscillator
